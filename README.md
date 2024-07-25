@@ -1,6 +1,6 @@
 # Attila
 
-A modified from content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See [original](https://github.com/zutrinken/attila).
+Modified from content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See [original](https://github.com/zutrinken/attila).
 
 I use Ghost as a headless CMS. So modifications are made to futher simiplify the original, and disable SEO.
 
